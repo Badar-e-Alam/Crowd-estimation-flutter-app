@@ -1,4 +1,4 @@
-# Crowd management app with flutter Supported by firebase
+# Crowd management app with flutter Supported by firebase 📱📱💁‍♂️👌
 
 A new Flutter application.
 
